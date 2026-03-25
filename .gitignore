@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+
+*.Zone.Indentifier
+
+__pycache__/
+*.pyc
+.env
