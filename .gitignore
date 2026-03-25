@@ -1,6 +1,6 @@
 .ipynb_checkpoints/
 
-*.Zone.Indentifier
+*:Zone.Indentifier
 
 __pycache__/
 *.pyc
